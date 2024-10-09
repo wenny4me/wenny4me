@@ -2,7 +2,7 @@
 ### My name is Chinwendu and I am an aspiring Data Analyst.
  
 - 🔭 I’m currently working on becoming a Data Analyst
-- 🌱 I’m currently learning about Data Analytics, Power BI, SQL and Tableau.
+- 🌱 I’m learning about Data Analytics, Power BI, SQL and Tableau.
 - 🤔 I’m looking for help with learning more about how I can harness the unlimited functions in Excel
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love pineapple on pizza
