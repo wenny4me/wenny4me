@@ -8,8 +8,9 @@
 - ⚡ Fun fact: I love pineapple on pizza
 
 #### You can reach me on [LinkedIn](https://www.linkedin.com/in/chinwendu-okongwu-mba-cc-377b8363/)
-**wenny4me/wenny4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**wenny4me/wenny4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
