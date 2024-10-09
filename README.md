@@ -6,10 +6,10 @@
 - 🤔 I’m looking for help with learning more about how I can harness the unlimited functions in Excel
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love pineapple on pizza
-<!--
-### You can reach me on [LinkedIn](https://www.linkedin.com/in/chinwendu-okongwu-mba-cc-377b8363/)
-**wenny4me/wenny4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### You can reach me on [LinkedIn](https://www.linkedin.com/in/chinwendu-okongwu-mba-cc-377b8363/)
+**wenny4me/wenny4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
